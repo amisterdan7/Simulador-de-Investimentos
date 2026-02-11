@@ -1,4 +1,4 @@
-# 📊 Simulador de Investimentos em FIIs - Dashboard Premium
+# 📊 Simulador de Investimentos em FIIs
 
 Projeto desenvolvido para simulação de investimentos em Fundos Imobiliários (FIIs),
 utilizando Excel com estrutura profissional, variáveis globais nomeadas e PROCV.
