@@ -10,8 +10,8 @@ utilizando Excel com estrutura profissional, variáveis globais nomeadas e PROCV
 ### 📌 Dashboard Principal
 ![Dashboard Principal](images/principal.png)
 
-### 📌 Distribuição e Cenários
-![Dashboard Secundário](images/dashboard-secundario.png)
+### 📌 Perfil de investidor
+![Dashboard Secundário](images/secundario.png)
 
 ---
 
